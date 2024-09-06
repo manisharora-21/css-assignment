@@ -1,33 +1,29 @@
-h1{
-   color: rgb(217,25,33);
-   padding-left: 50px ;
-   font-size: 40px;
-  
+h1 {
+  color: rgb(217, 25, 33);
+  padding-left: 50px;
+  font-size: 40px;
 }
 
-
-body{
-
-background: url("https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg");
+body {
+  background: url("https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9c36-5ba391c63fbe/44355e66-dbf8-4dd8-ba6b-8e9e32ec6abd/IN-en-20230320-popsignuptwoweeks-perspective_alpha_website_large.jpg");
 }
-.image1{
-    position: relative;
-    left: 10px;
-
+.image1 {
+  position: relative;
+  left: 10px;
 }
-.buttn{
-    background-color: red;
-    color: beige;
-    position:relative;
-    left: 550px;
-    bottom: 80px;
-    height: 40px;
-    width: 60px;
+.buttn {
+  background-color: red;
+  color: beige;
+  position: relative;
+  left: 1200px;
+  bottom: 80px;
+  height: 40px;
+  width: 60px;
 }
-.net{
-    text-align: center;
-    text-decoration: solid;
-    color: white;
-    position: relative;
-    top: 70px;
+.net {
+  text-align: center;
+  text-decoration: solid;
+  color: white;
+  position: relative;
+  top: 70px;
 }
