@@ -1,7 +1,8 @@
 h1{
-   color: rgb(217,25,33)
+   color: rgb(217,25,33);
+   padding-left: 50px ;
+   font-size: 40px;
   
-
 }
 
 
@@ -16,7 +17,17 @@ background: url("https://assets.nflxext.com/ffe/siteui/vlv3/8f12b4f0-a894-4d5b-9
 }
 .buttn{
     background-color: red;
+    color: beige;
+    position:relative;
+    left: 550px;
+    bottom: 80px;
+    height: 40px;
+    width: 60px;
+}
+.net{
+    text-align: center;
+    text-decoration: solid;
+    color: white;
     position: relative;
-    left: 10px;
-    top: 10px;
+    top: 70px;
 }
